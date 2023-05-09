@@ -7,7 +7,6 @@ def multiplica(x, y):
 
 
 def criar_funcao(funcao, *args):
-    args.__add__:1
     return funcao(*args)
 
 
